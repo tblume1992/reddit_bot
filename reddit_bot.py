@@ -124,8 +124,6 @@ class accountCreation():
             ro.enter_password()
             ro.beat_captcha()
             
-            
-ac = accountCreation(n = 2, password_length = 8, base_email = 't-blume@hotmail.com')
-ac.createAccounts()
+           
 
 
